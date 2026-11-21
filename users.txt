@@ -1,0 +1,30 @@
+LabFix - All users
+==================
+Website: https://labfix-a16fa.web.app
+Total  : 13 accounts (2 admin, 5 staff, 4 technician, 1 blocked, 1 removed)
+
+#   Email                          Role         Notes
+--  -----------------------------  -----------  ---------------------------------------
+1   admin@labfix.demo              Admin        Main admin, full access
+2   manager@labfix.demo            Admin        Second admin (Manager)
+3   nurul.aina@labfix.demo         Staff        Reports faults, chats, rates repairs
+4   daniel.lee@labfix.demo         Staff
+5   siti.hajar@labfix.demo         Staff
+6   arjun.kumar@labfix.demo        Staff
+7   marcus.tan@labfix.demo         Staff
+8   hafiz.techcare@labfix.demo     Technician   TechCare Solutions jobs only
+9   aiman.techcare@labfix.demo     Technician   TechCare Solutions jobs only
+10  wong.pcfix@labfix.demo         Technician   PCFix Pro Services jobs only
+11  ravi.netlink@labfix.demo       Technician   NetLink IT Support jobs only
+12  farah.izzati@labfix.demo       Blocked      Shows the "Access removed" page
+13  former.staff@labfix.demo       Removed      Shows the "Account removed" page
+
+By role
+-------
+Admin      : admin, manager
+Staff      : nurul.aina, daniel.lee, siti.hajar, arjun.kumar, marcus.tan
+Technician : hafiz.techcare, aiman.techcare (TechCare Solutions)
+             wong.pcfix (PCFix Pro Services)
+             ravi.netlink (NetLink IT Support)
+Blocked    : farah.izzati
+Removed    : former.staff
